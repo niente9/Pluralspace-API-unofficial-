@@ -7,6 +7,6 @@ Estimated execution time: 1.5 seconds + 1 second per fronter (I had to add a del
 
 Required PyPI packages: requests, bs4, lxml
 
-I have no affiliation with the developers of PluralSpace.
+I have no affiliation with the developers of PluralSpace. However, once PluralSpace comes out with the official API, I have no doubt it will be much better than this one, and I encourage people to use the official one.
 
 This is my first project in python, so it is likely not well optimized. AI was not used to code this.
